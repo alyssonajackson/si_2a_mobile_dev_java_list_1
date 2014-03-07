@@ -1,5 +1,5 @@
 
-public class q_3_13_6 {
+public class q_03_13_6 {
 	
 	public static void main(String[] args) {
 		double n1 = 1, n2 = 1, fibo = 1;

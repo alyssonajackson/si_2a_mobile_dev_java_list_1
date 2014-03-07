@@ -1,5 +1,5 @@
 
-public class q_3_13_2 {
+public class q_03_13_2 {
 
 	public static void main(String[] args) {
 		

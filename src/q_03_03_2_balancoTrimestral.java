@@ -1,5 +1,5 @@
 
-public class q_3_3_2_balancoTrimestral {
+public class q_03_03_2_balancoTrimestral {
 
 	public static void main(String[] args) {
 		int gastosJaneiro = 15000;
